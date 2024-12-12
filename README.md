@@ -1,6 +1,4 @@
-Here’s a **README.md** template for your project, tailored for GitHub:
 
----
 
 # **Open Hardware Monitoring System**
 
