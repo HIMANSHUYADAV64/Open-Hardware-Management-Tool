@@ -99,4 +99,4 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ---
 
-Feel free to replace placeholders like "yourusername" with your GitHub username or repository-specific details. Add the actual paths for screenshots if you include them in your repository!
+
