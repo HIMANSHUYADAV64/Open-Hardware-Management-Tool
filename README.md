@@ -98,5 +98,6 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 - **Contributors**: Everyone who helped test and improve the project.
 
 ---
+![Screenshot 2024-11-28 205413](https://github.com/user-attachments/assets/9db25695-0367-47d6-893a-049f03ec6247)
 
 
