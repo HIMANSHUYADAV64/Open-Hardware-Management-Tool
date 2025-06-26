@@ -17,15 +17,7 @@ A Linux-based system monitoring tool that provides real-time insights into CPU, 
 
 ---
 
-## **Screenshots**
 
-### Menu Interface:
-![Menu Interface](./screenshots/menu-interface.png)
-
-### System Monitoring Output:
-![System Monitoring](./screenshots/system-monitoring.png)
-
----
 
 ## **Getting Started**
 
